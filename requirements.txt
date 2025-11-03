@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+streamlit
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+requests
+python-multipart

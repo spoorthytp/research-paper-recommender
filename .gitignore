@@ -1,0 +1,8 @@
+# Ignore large files and local stuff
+arxiv-metadata-oai-snapshot.json
+*.csv
+*.npy
+*.index
+*.parquet
+venv/
+__pycache__/
